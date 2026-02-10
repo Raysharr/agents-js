@@ -1,5 +1,12 @@
 # @livekit/agents-plugin-resemble
 
+## 1.0.44
+
+### Patch Changes
+
+- Updated dependencies [[`4fb4f99e6cb36f5bf35c6395f5e38abd3c5e918f`](https://github.com/livekit/agents-js/commit/4fb4f99e6cb36f5bf35c6395f5e38abd3c5e918f)]:
+  - @livekit/agents@1.0.44
+
 ## 1.0.43
 
 ### Patch Changes

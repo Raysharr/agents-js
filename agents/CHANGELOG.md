@@ -1,5 +1,11 @@
 # @livekit/agents
 
+## 1.0.44
+
+### Patch Changes
+
+- Fix parsing lang from stt ctor - [#1028](https://github.com/livekit/agents-js/pull/1028) ([@adrian-cowham](https://github.com/adrian-cowham))
+
 ## 1.0.43
 
 ### Patch Changes
